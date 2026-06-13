@@ -1,0 +1,900 @@
+{
+  "lines": [
+    {
+      "lang": "fr",
+      "text": "une table"
+    },
+    {
+      "lang": "fr",
+      "text": "une table",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a table",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma table"
+    },
+    {
+      "lang": "fr",
+      "text": "ma table",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my table",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande table"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande table",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big table",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une table pour deux"
+    },
+    {
+      "lang": "fr",
+      "text": "une table pour deux",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a table for two",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un projet"
+    },
+    {
+      "lang": "fr",
+      "text": "un projet",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a project",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon nouveau projet"
+    },
+    {
+      "lang": "fr",
+      "text": "mon nouveau projet",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my new project",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un projet important"
+    },
+    {
+      "lang": "fr",
+      "text": "un projet important",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an important project",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand projet"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand projet",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big project",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un restaurant"
+    },
+    {
+      "lang": "fr",
+      "text": "un restaurant",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a restaurant",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un bon restaurant"
+    },
+    {
+      "lang": "fr",
+      "text": "un bon restaurant",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good restaurant",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un restaurant français"
+    },
+    {
+      "lang": "fr",
+      "text": "un restaurant français",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a French restaurant",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon restaurant préféré"
+    },
+    {
+      "lang": "fr",
+      "text": "mon restaurant préféré",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my favorite restaurant",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "le menu"
+    },
+    {
+      "lang": "fr",
+      "text": "le menu",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the menu",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "le menu du jour"
+    },
+    {
+      "lang": "fr",
+      "text": "le menu du jour",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the menu of the day",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un menu simple"
+    },
+    {
+      "lang": "fr",
+      "text": "un menu simple",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a simple menu",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "le menu, s'il vous plaît"
+    },
+    {
+      "lang": "fr",
+      "text": "le menu, s'il vous plaît",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the menu, please",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une banque"
+    },
+    {
+      "lang": "fr",
+      "text": "une banque",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a bank",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma banque"
+    },
+    {
+      "lang": "fr",
+      "text": "ma banque",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my bank",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la banque centrale"
+    },
+    {
+      "lang": "fr",
+      "text": "la banque centrale",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the central bank",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande banque"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande banque",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big bank",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une station"
+    },
+    {
+      "lang": "fr",
+      "text": "une station",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a station",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la prochaine station"
+    },
+    {
+      "lang": "fr",
+      "text": "la prochaine station",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the next station",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une station de métro"
+    },
+    {
+      "lang": "fr",
+      "text": "une station de métro",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a metro station",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "cette station"
+    },
+    {
+      "lang": "fr",
+      "text": "cette station",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "this station",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une avenue"
+    },
+    {
+      "lang": "fr",
+      "text": "une avenue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an avenue",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande avenue"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande avenue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big avenue",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une belle avenue"
+    },
+    {
+      "lang": "fr",
+      "text": "une belle avenue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful avenue",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "cette avenue"
+    },
+    {
+      "lang": "fr",
+      "text": "cette avenue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "this avenue",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une salade"
+    },
+    {
+      "lang": "fr",
+      "text": "une salade",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a salad",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne salade"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne salade",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good salad",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une salade verte"
+    },
+    {
+      "lang": "fr",
+      "text": "une salade verte",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a green salad",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "deux salades"
+    },
+    {
+      "lang": "fr",
+      "text": "deux salades",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "two salads",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une page"
+    },
+    {
+      "lang": "fr",
+      "text": "une page",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a page",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la première page"
+    },
+    {
+      "lang": "fr",
+      "text": "la première page",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the first page",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la page suivante"
+    },
+    {
+      "lang": "fr",
+      "text": "la page suivante",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the next page",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la dernière page"
+    },
+    {
+      "lang": "fr",
+      "text": "la dernière page",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the last page",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un téléphone"
+    },
+    {
+      "lang": "fr",
+      "text": "un téléphone",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a phone",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon téléphone"
+    },
+    {
+      "lang": "fr",
+      "text": "mon téléphone",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my phone",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau téléphone"
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau téléphone",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a new phone",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon numéro de téléphone"
+    },
+    {
+      "lang": "fr",
+      "text": "mon numéro de téléphone",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my phone number",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une adresse"
+    },
+    {
+      "lang": "fr",
+      "text": "une adresse",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an address",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon adresse"
+    },
+    {
+      "lang": "fr",
+      "text": "mon adresse",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my address",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ta nouvelle adresse"
+    },
+    {
+      "lang": "fr",
+      "text": "ta nouvelle adresse",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "your new address",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne adresse"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne adresse",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good spot",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un hôtel"
+    },
+    {
+      "lang": "fr",
+      "text": "un hôtel",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a hotel",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un bon hôtel"
+    },
+    {
+      "lang": "fr",
+      "text": "un bon hôtel",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good hotel",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un hôtel pas cher"
+    },
+    {
+      "lang": "fr",
+      "text": "un hôtel pas cher",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a cheap hotel",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand hôtel"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand hôtel",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big hotel",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une université"
+    },
+    {
+      "lang": "fr",
+      "text": "une université",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon université"
+    },
+    {
+      "lang": "fr",
+      "text": "mon université",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande université"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande université",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une université célèbre"
+    },
+    {
+      "lang": "fr",
+      "text": "une université célèbre",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a famous university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un examen"
+    },
+    {
+      "lang": "fr",
+      "text": "un examen",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an exam",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon examen"
+    },
+    {
+      "lang": "fr",
+      "text": "mon examen",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my exam",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un examen difficile"
+    },
+    {
+      "lang": "fr",
+      "text": "un examen difficile",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a difficult exam",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un examen important"
+    },
+    {
+      "lang": "fr",
+      "text": "un examen important",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an important exam",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une idée"
+    },
+    {
+      "lang": "fr",
+      "text": "une idée",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an idea",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne idée"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne idée",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good idea",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une mauvaise idée"
+    },
+    {
+      "lang": "fr",
+      "text": "une mauvaise idée",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a bad idea",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une excellente idée"
+    },
+    {
+      "lang": "fr",
+      "text": "une excellente idée",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an excellent idea",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une question"
+    },
+    {
+      "lang": "fr",
+      "text": "une question",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne question"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne question",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une question simple"
+    },
+    {
+      "lang": "fr",
+      "text": "une question simple",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a simple question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une autre question"
+    },
+    {
+      "lang": "fr",
+      "text": "une autre question",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "another question",
+      "gap": 2.5
+    }
+  ]
+}

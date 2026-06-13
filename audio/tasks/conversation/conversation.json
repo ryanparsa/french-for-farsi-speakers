@@ -1,0 +1,1092 @@
+{
+  "lines": [
+    {
+      "lang": "fr",
+      "text": "mon nom",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "mon nom",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my name",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm called",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle Marie",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle Marie",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my name is Marie",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "enchantée",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "enchantée",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "nice to meet you",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon nom",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "mon nom",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my name",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm called",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle Marc",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je m'appelle Marc",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my name is Marc",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "enchanté",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "enchanté",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "nice to meet you",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je viens",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je viens",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I come",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je viens de",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je viens de",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I come from",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je viens de Paris",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je viens de Paris",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm from Paris",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je suis française",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je suis française",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm French",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je viens",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je viens",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I come",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je viens du",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je viens du",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I come from",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je viens du Canada",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je viens du Canada",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm from Canada",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je suis canadien",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je suis canadien",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm Canadian",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I live",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite à",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite à",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I live in",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite à Paris",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite à Paris",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I live in Paris",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite à Paris maintenant",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'habite à Paris maintenant",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I live in Paris now",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I have",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai vingt ans",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai vingt ans",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm twenty",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai vingt-cinq ans",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai vingt-cinq ans",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm twenty-five",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai trente ans",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai trente ans",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm thirty",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I work",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille à",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille à",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I work in",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille à Paris",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille à Paris",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I work in Paris",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je suis étudiante",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je suis étudiante",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm a student",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I work",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille beaucoup",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je travaille beaucoup",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I work a lot",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je suis professeur",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je suis professeur",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm a teacher",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je suis ingénieur",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je suis ingénieur",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'm an engineer",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je parle",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je parle",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I speak",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je parle français",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je parle français",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I speak French",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je parle anglais",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je parle anglais",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I speak English",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je parle un peu anglais",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "je parle un peu anglais",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I speak a little English",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je parle",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je parle",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I speak",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je parle anglais",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je parle anglais",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I speak English",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je ne parle pas",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je ne parle pas",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I don't speak",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je ne parle pas français",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je ne parle pas français",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I don't speak French",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I like",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime le café",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime le café",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I like coffee",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime Paris",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime Paris",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I like Paris",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime beaucoup Paris",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'aime beaucoup Paris",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I like Paris a lot",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I would like",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais un café",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais un café",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'd like a coffee",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais de l'eau",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais de l'eau",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'd like some water",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais l'addition",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "je voudrais l'addition",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I'd like the bill",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai une sœur",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai une sœur",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I have a sister",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai deux frères",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai deux frères",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I have two brothers",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai un chat",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai un chat",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I have a cat",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai un chien",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "j'ai un chien",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "I have a dog",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "et toi",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "et toi",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "and you",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "comment tu t'appelles",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "comment tu t'appelles",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "what's your name",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "d'où viens-tu",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "d'où viens-tu",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "where are you from",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "tu parles anglais",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "tu parles anglais",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "do you speak English",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "merci",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "merci",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "thank you",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "merci beaucoup",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "merci beaucoup",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "thank you very much",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "de rien",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "de rien",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "you're welcome",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "s'il te plaît",
+      "voice": "f"
+    },
+    {
+      "lang": "fr",
+      "text": "s'il te plaît",
+      "voice": "f",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "please",
+      "voice": "f",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "au revoir",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "au revoir",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "goodbye",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "à bientôt",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "à bientôt",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "see you soon",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "à demain",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "à demain",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "see you tomorrow",
+      "voice": "m",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "bonne journée",
+      "voice": "m"
+    },
+    {
+      "lang": "fr",
+      "text": "bonne journée",
+      "voice": "m",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "have a good day",
+      "voice": "m",
+      "gap": 2.5
+    }
+  ]
+}

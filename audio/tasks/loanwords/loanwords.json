@@ -1,0 +1,900 @@
+{
+  "lines": [
+    {
+      "lang": "fr",
+      "text": "un café"
+    },
+    {
+      "lang": "fr",
+      "text": "un café",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a coffee",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un café au lait"
+    },
+    {
+      "lang": "fr",
+      "text": "un café au lait",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a coffee with milk",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "deux cafés"
+    },
+    {
+      "lang": "fr",
+      "text": "deux cafés",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "two coffees",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un café, s'il vous plaît"
+    },
+    {
+      "lang": "fr",
+      "text": "un café, s'il vous plaît",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a coffee, please",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un taxi"
+    },
+    {
+      "lang": "fr",
+      "text": "un taxi",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a taxi",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon taxi"
+    },
+    {
+      "lang": "fr",
+      "text": "mon taxi",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my taxi",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un taxi jaune"
+    },
+    {
+      "lang": "fr",
+      "text": "un taxi jaune",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a yellow taxi",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un taxi pour l'aéroport"
+    },
+    {
+      "lang": "fr",
+      "text": "un taxi pour l'aéroport",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a taxi to the airport",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "le métro"
+    },
+    {
+      "lang": "fr",
+      "text": "le métro",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the subway",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une station de métro"
+    },
+    {
+      "lang": "fr",
+      "text": "une station de métro",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a metro station",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "le dernier métro"
+    },
+    {
+      "lang": "fr",
+      "text": "le dernier métro",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the last subway",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un ticket de métro"
+    },
+    {
+      "lang": "fr",
+      "text": "un ticket de métro",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a metro ticket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau"
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon manteau"
+    },
+    {
+      "lang": "fr",
+      "text": "mon manteau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau rouge"
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau rouge",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a red coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau chaud"
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau chaud",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a warm coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate"
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma cravate"
+    },
+    {
+      "lang": "fr",
+      "text": "ma cravate",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate bleue"
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate bleue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a blue tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une belle cravate"
+    },
+    {
+      "lang": "fr",
+      "text": "une belle cravate",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a nice tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau"
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand chapeau"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand chapeau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau noir"
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau noir",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon vieux chapeau"
+    },
+    {
+      "lang": "fr",
+      "text": "mon vieux chapeau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my old hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un garage"
+    },
+    {
+      "lang": "fr",
+      "text": "un garage",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a garage",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon garage"
+    },
+    {
+      "lang": "fr",
+      "text": "mon garage",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my garage",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un garage fermé"
+    },
+    {
+      "lang": "fr",
+      "text": "un garage fermé",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a closed garage",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand garage"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand garage",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big garage",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un passeport"
+    },
+    {
+      "lang": "fr",
+      "text": "un passeport",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a passport",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon passeport"
+    },
+    {
+      "lang": "fr",
+      "text": "mon passeport",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my passport",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau passeport"
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau passeport",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a new passport",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon passeport français"
+    },
+    {
+      "lang": "fr",
+      "text": "mon passeport français",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my French passport",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une lampe"
+    },
+    {
+      "lang": "fr",
+      "text": "une lampe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a lamp",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma lampe"
+    },
+    {
+      "lang": "fr",
+      "text": "ma lampe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my lamp",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une petite lampe"
+    },
+    {
+      "lang": "fr",
+      "text": "une petite lampe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a small lamp",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une lampe rouge"
+    },
+    {
+      "lang": "fr",
+      "text": "une lampe rouge",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a red lamp",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un canapé"
+    },
+    {
+      "lang": "fr",
+      "text": "un canapé",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a sofa",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand canapé"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand canapé",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big sofa",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un canapé confortable"
+    },
+    {
+      "lang": "fr",
+      "text": "un canapé confortable",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a comfortable sofa",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon canapé"
+    },
+    {
+      "lang": "fr",
+      "text": "mon canapé",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my sofa",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "du chocolat"
+    },
+    {
+      "lang": "fr",
+      "text": "du chocolat",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "some chocolate",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "le chocolat noir"
+    },
+    {
+      "lang": "fr",
+      "text": "le chocolat noir",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "dark chocolate",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un chocolat chaud"
+    },
+    {
+      "lang": "fr",
+      "text": "un chocolat chaud",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a hot chocolate",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un bon chocolat"
+    },
+    {
+      "lang": "fr",
+      "text": "un bon chocolat",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good chocolate",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe"
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma jupe"
+    },
+    {
+      "lang": "fr",
+      "text": "ma jupe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe noire"
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe noire",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe courte"
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe courte",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a short skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une machine"
+    },
+    {
+      "lang": "fr",
+      "text": "une machine",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a machine",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une machine à café"
+    },
+    {
+      "lang": "fr",
+      "text": "une machine à café",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a coffee machine",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une machine moderne"
+    },
+    {
+      "lang": "fr",
+      "text": "une machine moderne",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a modern machine",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma machine"
+    },
+    {
+      "lang": "fr",
+      "text": "ma machine",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my machine",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un biscuit"
+    },
+    {
+      "lang": "fr",
+      "text": "un biscuit",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a biscuit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des biscuits"
+    },
+    {
+      "lang": "fr",
+      "text": "des biscuits",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "some biscuits",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un petit biscuit"
+    },
+    {
+      "lang": "fr",
+      "text": "un petit biscuit",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a small biscuit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un bon biscuit"
+    },
+    {
+      "lang": "fr",
+      "text": "un bon biscuit",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good biscuit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un sandwich"
+    },
+    {
+      "lang": "fr",
+      "text": "un sandwich",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a sandwich",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand sandwich"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand sandwich",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big sandwich",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon sandwich"
+    },
+    {
+      "lang": "fr",
+      "text": "mon sandwich",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my sandwich",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un sandwich au fromage"
+    },
+    {
+      "lang": "fr",
+      "text": "un sandwich au fromage",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a cheese sandwich",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un ticket"
+    },
+    {
+      "lang": "fr",
+      "text": "un ticket",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a ticket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "mon ticket"
+    },
+    {
+      "lang": "fr",
+      "text": "mon ticket",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my ticket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "deux tickets"
+    },
+    {
+      "lang": "fr",
+      "text": "deux tickets",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "two tickets",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un ticket de bus"
+    },
+    {
+      "lang": "fr",
+      "text": "un ticket de bus",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a bus ticket",
+      "gap": 2.5
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://french-for-farsi/audio/task.schema.json",
+  "title": "Audio drill task",
+  "description": "A task is an ordered list of lines. tts.py renders each line to a TTS clip, adds `gap` seconds of silence after it, then stitches everything into one .mp4 (audio + soft subtitles) plus a .srt. Each line's text also becomes one subtitle cue. Global defaults (the voice per language, etc.) live in tts.py and can be overridden per line.",
+  "type": "object",
+  "required": [
+    "lines"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "lines": {
+      "type": "array",
+      "minItems": 1,
+      "description": "The lines to speak, in order.",
+      "items": {
+        "$ref": "#/$defs/line"
+      }
+    }
+  },
+  "$defs": {
+    "line": {
+      "type": "object",
+      "required": [
+        "lang",
+        "text"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "lang": {
+          "type": "string",
+          "description": "Language code. Selects the default voice + provider locale from tts.py VOICES.",
+          "examples": [
+            "fr",
+            "en",
+            "fa"
+          ]
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The text to speak. Also shown as this line's subtitle cue."
+        },
+        "voice": {
+          "type": "string",
+          "description": "Override the voice for this line. Use 'f' or 'm' as a shorthand for the female/male voice of this language, or give a full provider voice id. Defaults to VOICES[lang] in tts.py.",
+          "examples": [
+            "f",
+            "m",
+            "fr-FR-Chirp3-HD-Charon",
+            "en-US-Chirp3-HD-Kore"
+          ]
+        },
+        "provider": {
+          "type": "string",
+          "enum": [
+            "google",
+            "azure",
+            "elevenlabs"
+          ],
+          "default": "google",
+          "description": "Which TTS service renders this line. Only 'google' is implemented today; 'azure'/'elevenlabs' are reserved for languages Google can't speak (e.g. Persian)."
+        },
+        "speed": {
+          "type": "number",
+          "minimum": 0.25,
+          "maximum": 2.0,
+          "default": 1.0,
+          "description": "Speaking rate. <1 = slower, >1 = faster. For a slow repeat, add the same line again with a lower speed."
+        },
+        "gap": {
+          "type": "number",
+          "minimum": 0,
+          "default": 1.5,
+          "description": "Seconds of silence after this line, before the next one."
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "lang": "fr",
+          "text": "Bonjour"
+        },
+        {
+          "lang": "fr",
+          "text": "Bonjour",
+          "speed": 0.7
+        },
+        {
+          "lang": "en",
+          "text": "Hello",
+          "gap": 2.5
+        },
+        {
+          "lang": "fr",
+          "text": "Merci beaucoup"
+        },
+        {
+          "lang": "fr",
+          "text": "Merci beaucoup",
+          "speed": 0.7
+        },
+        {
+          "lang": "fa",
+          "text": "خیلی ممنون",
+          "provider": "azure"
+        },
+        {
+          "lang": "en",
+          "text": "Thank you very much",
+          "gap": 2.5
+        }
+      ]
+    }
+  ]
+}
