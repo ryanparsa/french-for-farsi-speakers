@@ -1,0 +1,900 @@
+{
+  "lines": [
+    {
+      "lang": "fr",
+      "text": "une cravate"
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate bleue"
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate bleue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a blue tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate rouge"
+    },
+    {
+      "lang": "fr",
+      "text": "une cravate rouge",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a red tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une belle cravate"
+    },
+    {
+      "lang": "fr",
+      "text": "une belle cravate",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful tie",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau"
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau noir"
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau noir",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau manteau"
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau manteau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a new coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau chaud"
+    },
+    {
+      "lang": "fr",
+      "text": "un manteau chaud",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a warm coat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une robe"
+    },
+    {
+      "lang": "fr",
+      "text": "une robe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a dress",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une belle robe"
+    },
+    {
+      "lang": "fr",
+      "text": "une belle robe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful dress",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une robe blanche"
+    },
+    {
+      "lang": "fr",
+      "text": "une robe blanche",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a white dress",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une robe rouge"
+    },
+    {
+      "lang": "fr",
+      "text": "une robe rouge",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a red dress",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une chemise"
+    },
+    {
+      "lang": "fr",
+      "text": "une chemise",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a shirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une chemise blanche"
+    },
+    {
+      "lang": "fr",
+      "text": "une chemise blanche",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a white shirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une chemise bleue"
+    },
+    {
+      "lang": "fr",
+      "text": "une chemise bleue",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a blue shirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une vieille chemise"
+    },
+    {
+      "lang": "fr",
+      "text": "une vieille chemise",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an old shirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un pantalon"
+    },
+    {
+      "lang": "fr",
+      "text": "un pantalon",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a pair of trousers",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un pantalon noir"
+    },
+    {
+      "lang": "fr",
+      "text": "un pantalon noir",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "black trousers",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau pantalon"
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau pantalon",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "new trousers",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un pantalon gris"
+    },
+    {
+      "lang": "fr",
+      "text": "un pantalon gris",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "grey trousers",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des chaussures"
+    },
+    {
+      "lang": "fr",
+      "text": "des chaussures",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "shoes",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des chaussures rouges"
+    },
+    {
+      "lang": "fr",
+      "text": "des chaussures rouges",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "red shoes",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des chaussures noires"
+    },
+    {
+      "lang": "fr",
+      "text": "des chaussures noires",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "black shoes",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "de belles chaussures"
+    },
+    {
+      "lang": "fr",
+      "text": "de belles chaussures",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "beautiful shoes",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau"
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un beau chapeau"
+    },
+    {
+      "lang": "fr",
+      "text": "un beau chapeau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau noir"
+    },
+    {
+      "lang": "fr",
+      "text": "un chapeau noir",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un petit chapeau"
+    },
+    {
+      "lang": "fr",
+      "text": "un petit chapeau",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a small hat",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe"
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe courte"
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe courte",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a short skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe noire"
+    },
+    {
+      "lang": "fr",
+      "text": "une jupe noire",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une jolie jupe"
+    },
+    {
+      "lang": "fr",
+      "text": "une jolie jupe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a pretty skirt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un pull"
+    },
+    {
+      "lang": "fr",
+      "text": "un pull",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a sweater",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un pull rouge"
+    },
+    {
+      "lang": "fr",
+      "text": "un pull rouge",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a red sweater",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau pull"
+    },
+    {
+      "lang": "fr",
+      "text": "un nouveau pull",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a new sweater",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un gros pull"
+    },
+    {
+      "lang": "fr",
+      "text": "un gros pull",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a thick sweater",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une veste"
+    },
+    {
+      "lang": "fr",
+      "text": "une veste",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a jacket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une veste noire"
+    },
+    {
+      "lang": "fr",
+      "text": "une veste noire",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black jacket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une belle veste"
+    },
+    {
+      "lang": "fr",
+      "text": "une belle veste",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful jacket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une veste verte"
+    },
+    {
+      "lang": "fr",
+      "text": "une veste verte",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a green jacket",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une écharpe"
+    },
+    {
+      "lang": "fr",
+      "text": "une écharpe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a scarf",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une écharpe rouge"
+    },
+    {
+      "lang": "fr",
+      "text": "une écharpe rouge",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a red scarf",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande écharpe"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande écharpe",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big scarf",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une écharpe chaude"
+    },
+    {
+      "lang": "fr",
+      "text": "une écharpe chaude",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a warm scarf",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des gants"
+    },
+    {
+      "lang": "fr",
+      "text": "des gants",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "gloves",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des gants noirs"
+    },
+    {
+      "lang": "fr",
+      "text": "des gants noirs",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "black gloves",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des gants chauds"
+    },
+    {
+      "lang": "fr",
+      "text": "des gants chauds",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "warm gloves",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "de beaux gants"
+    },
+    {
+      "lang": "fr",
+      "text": "de beaux gants",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "beautiful gloves",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une ceinture"
+    },
+    {
+      "lang": "fr",
+      "text": "une ceinture",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a belt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une ceinture noire"
+    },
+    {
+      "lang": "fr",
+      "text": "une ceinture noire",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black belt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une ceinture marron"
+    },
+    {
+      "lang": "fr",
+      "text": "une ceinture marron",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a brown belt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une belle ceinture"
+    },
+    {
+      "lang": "fr",
+      "text": "une belle ceinture",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful belt",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un sac"
+    },
+    {
+      "lang": "fr",
+      "text": "un sac",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a bag",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un petit sac"
+    },
+    {
+      "lang": "fr",
+      "text": "un petit sac",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a small bag",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un grand sac"
+    },
+    {
+      "lang": "fr",
+      "text": "un grand sac",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big bag",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un sac noir"
+    },
+    {
+      "lang": "fr",
+      "text": "un sac noir",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a black bag",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un costume"
+    },
+    {
+      "lang": "fr",
+      "text": "un costume",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a suit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un beau costume"
+    },
+    {
+      "lang": "fr",
+      "text": "un beau costume",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a beautiful suit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un costume gris"
+    },
+    {
+      "lang": "fr",
+      "text": "un costume gris",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a grey suit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un costume bleu"
+    },
+    {
+      "lang": "fr",
+      "text": "un costume bleu",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a blue suit",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des lunettes"
+    },
+    {
+      "lang": "fr",
+      "text": "des lunettes",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "glasses",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des lunettes noires"
+    },
+    {
+      "lang": "fr",
+      "text": "des lunettes noires",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "dark glasses",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "de nouvelles lunettes"
+    },
+    {
+      "lang": "fr",
+      "text": "de nouvelles lunettes",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "new glasses",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des lunettes de soleil"
+    },
+    {
+      "lang": "fr",
+      "text": "des lunettes de soleil",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "sunglasses",
+      "gap": 2.5
+    }
+  ]
+}

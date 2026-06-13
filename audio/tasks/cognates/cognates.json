@@ -1,0 +1,900 @@
+{
+  "lines": [
+    {
+      "lang": "fr",
+      "text": "l'information"
+    },
+    {
+      "lang": "fr",
+      "text": "l'information",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the information",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une information importante"
+    },
+    {
+      "lang": "fr",
+      "text": "une information importante",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an important piece of information",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des informations"
+    },
+    {
+      "lang": "fr",
+      "text": "des informations",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "some news",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "merci pour l'information"
+    },
+    {
+      "lang": "fr",
+      "text": "merci pour l'information",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "thanks for the information",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une question"
+    },
+    {
+      "lang": "fr",
+      "text": "une question",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne question"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne question",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une question difficile"
+    },
+    {
+      "lang": "fr",
+      "text": "une question difficile",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a difficult question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "pas de question"
+    },
+    {
+      "lang": "fr",
+      "text": "pas de question",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "no question",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la situation"
+    },
+    {
+      "lang": "fr",
+      "text": "la situation",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the situation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une situation difficile"
+    },
+    {
+      "lang": "fr",
+      "text": "une situation difficile",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a difficult situation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une situation normale"
+    },
+    {
+      "lang": "fr",
+      "text": "une situation normale",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a normal situation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la situation actuelle"
+    },
+    {
+      "lang": "fr",
+      "text": "la situation actuelle",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the current situation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une solution"
+    },
+    {
+      "lang": "fr",
+      "text": "une solution",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a solution",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une solution simple"
+    },
+    {
+      "lang": "fr",
+      "text": "une solution simple",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a simple solution",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la bonne solution"
+    },
+    {
+      "lang": "fr",
+      "text": "la bonne solution",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the right solution",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une solution possible"
+    },
+    {
+      "lang": "fr",
+      "text": "une solution possible",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a possible solution",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "l'attention"
+    },
+    {
+      "lang": "fr",
+      "text": "l'attention",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "attention",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "faites attention"
+    },
+    {
+      "lang": "fr",
+      "text": "faites attention",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "be careful",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "beaucoup d'attention"
+    },
+    {
+      "lang": "fr",
+      "text": "beaucoup d'attention",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a lot of attention",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "attention, s'il vous plaît"
+    },
+    {
+      "lang": "fr",
+      "text": "attention, s'il vous plaît",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "attention, please",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "l'université"
+    },
+    {
+      "lang": "fr",
+      "text": "l'université",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande université"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande université",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une université française"
+    },
+    {
+      "lang": "fr",
+      "text": "une université française",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a French university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "à l'université"
+    },
+    {
+      "lang": "fr",
+      "text": "à l'université",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "at the university",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la qualité"
+    },
+    {
+      "lang": "fr",
+      "text": "la qualité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "quality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne qualité"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne qualité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "good quality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une qualité supérieure"
+    },
+    {
+      "lang": "fr",
+      "text": "une qualité supérieure",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "superior quality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "de bonne qualité"
+    },
+    {
+      "lang": "fr",
+      "text": "de bonne qualité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "of good quality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une activité"
+    },
+    {
+      "lang": "fr",
+      "text": "une activité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an activity",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une activité physique"
+    },
+    {
+      "lang": "fr",
+      "text": "une activité physique",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a physical activity",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "des activités"
+    },
+    {
+      "lang": "fr",
+      "text": "des activités",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "some activities",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une activité populaire"
+    },
+    {
+      "lang": "fr",
+      "text": "une activité populaire",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a popular activity",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une possibilité"
+    },
+    {
+      "lang": "fr",
+      "text": "une possibilité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a possibility",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une autre possibilité"
+    },
+    {
+      "lang": "fr",
+      "text": "une autre possibilité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "another possibility",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "plusieurs possibilités"
+    },
+    {
+      "lang": "fr",
+      "text": "plusieurs possibilités",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "several possibilities",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une réelle possibilité"
+    },
+    {
+      "lang": "fr",
+      "text": "une réelle possibilité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a real possibility",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la nation"
+    },
+    {
+      "lang": "fr",
+      "text": "la nation",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the nation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une grande nation"
+    },
+    {
+      "lang": "fr",
+      "text": "une grande nation",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a great nation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "toute la nation"
+    },
+    {
+      "lang": "fr",
+      "text": "toute la nation",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the whole nation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une nation moderne"
+    },
+    {
+      "lang": "fr",
+      "text": "une nation moderne",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a modern nation",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la réalité"
+    },
+    {
+      "lang": "fr",
+      "text": "la réalité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "reality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la dure réalité"
+    },
+    {
+      "lang": "fr",
+      "text": "la dure réalité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the harsh reality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "en réalité"
+    },
+    {
+      "lang": "fr",
+      "text": "en réalité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "in reality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une autre réalité"
+    },
+    {
+      "lang": "fr",
+      "text": "une autre réalité",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "another reality",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "la position"
+    },
+    {
+      "lang": "fr",
+      "text": "la position",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "the position",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne position"
+    },
+    {
+      "lang": "fr",
+      "text": "une bonne position",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a good position",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "ma position"
+    },
+    {
+      "lang": "fr",
+      "text": "ma position",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "my position",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une position difficile"
+    },
+    {
+      "lang": "fr",
+      "text": "une position difficile",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a difficult position",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un problème"
+    },
+    {
+      "lang": "fr",
+      "text": "un problème",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a problem",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "pas de problème"
+    },
+    {
+      "lang": "fr",
+      "text": "pas de problème",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "no problem",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un petit problème"
+    },
+    {
+      "lang": "fr",
+      "text": "un petit problème",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a small problem",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un gros problème"
+    },
+    {
+      "lang": "fr",
+      "text": "un gros problème",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "a big problem",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "c'est important"
+    },
+    {
+      "lang": "fr",
+      "text": "c'est important",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "it's important",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "très important"
+    },
+    {
+      "lang": "fr",
+      "text": "très important",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "very important",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "une décision importante"
+    },
+    {
+      "lang": "fr",
+      "text": "une décision importante",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an important decision",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "un message important"
+    },
+    {
+      "lang": "fr",
+      "text": "un message important",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "an important message",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "rapidement"
+    },
+    {
+      "lang": "fr",
+      "text": "rapidement",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "quickly",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "très rapidement"
+    },
+    {
+      "lang": "fr",
+      "text": "très rapidement",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "very quickly",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "assez rapidement"
+    },
+    {
+      "lang": "fr",
+      "text": "assez rapidement",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "quite quickly",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "répondez rapidement"
+    },
+    {
+      "lang": "fr",
+      "text": "répondez rapidement",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "answer quickly",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "exactement"
+    },
+    {
+      "lang": "fr",
+      "text": "exactement",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "exactly",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "c'est exact"
+    },
+    {
+      "lang": "fr",
+      "text": "c'est exact",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "that's right",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "exactement comme ça"
+    },
+    {
+      "lang": "fr",
+      "text": "exactement comme ça",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "exactly like that",
+      "gap": 2.5
+    },
+    {
+      "lang": "fr",
+      "text": "pas exactement"
+    },
+    {
+      "lang": "fr",
+      "text": "pas exactement",
+      "speed": 0.7
+    },
+    {
+      "lang": "en",
+      "text": "not exactly",
+      "gap": 2.5
+    }
+  ]
+}
