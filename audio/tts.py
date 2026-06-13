@@ -185,7 +185,7 @@ def collect_tasks(paths):
 
 def main() -> None:
     ap = argparse.ArgumentParser(
-        description="Render JSON task(s) to .mp4 (audio + soft subs) + .srt.")
+        description="Render JSON task(s) to .mp4 (audio + soft subs) + .m4a (audio) + .srt.")
     ap.add_argument("inputs", nargs="+",
                     help="one or more task .json files, and/or a folder of them")
     ap.add_argument("-o", "--out",
@@ -219,7 +219,7 @@ def render_file(task_path: str, out: str, api_key: str) -> None:
         return
 
     base = out or os.path.splitext(task_path)[0]
-    mp4_path, srt_path = base + ".mp4", base + ".srt"
+    mp4_path, srt_path, m4a_path = base + ".mp4", base + ".srt", base + ".m4a"
 
     print(f"Rendering {task_path} ...")
     clips, cues, offset = [], [], 0.0
@@ -266,8 +266,17 @@ def render_file(task_path: str, out: str, api_key: str) -> None:
         mp4_path,
     ])
 
+    # Also emit a plain audio-only .m4a (AAC) from the same clips — no video,
+    # no subs — for phones / podcast apps. Pair it with the loose .srt.
+    run_ffmpeg([
+        "-f", "concat", "-safe", "0", "-i", list_path,
+        "-c:a", "aac", "-b:a", AUDIO_BITRATE,
+        m4a_path,
+    ])
+
     print(f"  {n_new} new, {n_cached} reused from cache")
     print(f"  -> {mp4_path}  ({offset:.1f}s, audio + soft subs)")
+    print(f"  -> {m4a_path}  (audio only, AAC)")
     print(f"  -> {srt_path}  (also embedded in the mp4)")
 
 
