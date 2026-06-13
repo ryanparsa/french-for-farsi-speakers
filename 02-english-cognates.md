@@ -669,4 +669,102 @@
 | le courage     | [koo-RAHZH]    | courage         | courage           |
 | la rivière     | [ree-VYAIR]    | river           | river             |
 | la montagne    | [moN-TAH-nyuh] | mountain        | mountain          |
+| la chambre     | [SHAHN-bruh]   | room            | chamber           |
+| le théâtre     | [tay-AH-truh]  | theater         | theatre           |
+| le problème    | [proh-BLEM]    | problem         | problem           |
+| l'exemple (m)  | [eg-ZAHN-pluh] | example         | example           |
+| la réponse     | [ray-POHNSS]   | answer          | response          |
+| la différence  | [dee-fay-RAHNSS]| difference     | difference        |
+| la personne    | [per-SUN]      | person          | person            |
+| la langue      | [lahNg]        | language        | language          |
+| l'heure (f)    | [ur]           | hour            | hour              |
+| le jardin      | [zhar-DAN]     | garden          | garden            |
+| le papier      | [pah-PYAY]     | paper           | paper             |
+| la lampe       | [lahNp]        | lamp            | lamp              |
+| la liste       | [leest]        | list            | list              |
+| le groupe      | [groop]        | group           | group             |
+| la classe      | [klahss]       | class           | class             |
+| le bureau      | [bew-ROH]      | desk / office   | bureau            |
+| la chaise      | [shez]         | chair           | chaise            |
+| le poète       | [poh-ET]       | poet            | poet              |
+| la prière      | [pree-YAIR]    | prayer          | prayer            |
+| le repas       | [ruh-PAH]      | meal            | (repast)          |
+| la maison      | [meh-ZOHN]     | house           | (mansion)         |
+| la porte       | [port]         | door            | (portal)          |
+| le mur         | [mewr]         | wall            | (mural)           |
+| l'escalier (m) | [ess-kah-LYAY] | stairs          | (escalator)       |
+| l'étage (m)    | [ay-TAHZH]     | floor / story   | (stage)           |
+| la cuisine     | [kwee-ZEEN]    | kitchen         | cuisine           |
+| le quartier    | [kar-TYAY]     | neighborhood    | (quarter)         |
+| la chance      | [shahNss]      | luck            | chance            |
+| la figure      | [fee-GEWR]     | face            | figure            |
+| le visage      | [vee-ZAHZH]    | face            | (visage)          |
+| le sentiment   | [sahN-tee-MAHN]| feeling         | sentiment         |
+| la pensée      | [pahN-SAY]     | thought         | (pensive)         |
+| la raison      | [reh-ZOHN]     | reason          | reason            |
+| la valeur      | [vah-LUR]      | value           | (value / valor)   |
+| le prix        | [pree]         | price           | price             |
+| la force       | [forss]        | strength        | force             |
+| la faiblesse   | [feh-BLESS]    | weakness        | (feeble)          |
+| le savoir      | [sah-VWAR]     | knowledge       | (savant)          |
+| la lumière     | [lew-MYAIR]    | light           | (luminous)        |
+| l'ombre (f)    | [OHN-bruh]     | shadow          | (somber / umbra)  |
+| la chaleur     | [shah-LUR]     | heat            | (calorie)         |
+| la fumée       | [few-MAY]      | smoke           | (fume)            |
+| la fleur       | [flur]         | flower          | (floral)          |
+| l'arbre (m)    | [AR-bruh]      | tree            | (arbor)           |
+| la feuille     | [FUH-yuh]      | leaf            | (foliage)         |
+| la racine      | [rah-SEEN]     | root            | (radical)         |
+| le goût        | [goo]          | taste           | (gusto / gourmet) |
+| l'odeur (f)    | [oh-DUR]       | smell           | (odor)            |
+| la douleur     | [doo-LUR]      | pain            | (dolorous)        |
+| la colère      | [koh-LAIR]     | anger           | (choleric)        |
+| le voyage      | [vwah-YAHZH]   | trip            | voyage            |
+| l'argent (m)   | [ar-ZHAHN]     | money / silver  | (Argentina)       |
+| la joie        | [zhwah]        | joy             | joy               |
+| l'âge (m)      | [ahzh]         | age             | age               |
+| la branche     | [brahNsh]      | branch          | branch            |
+| le combat      | [koN-BAH]      | fight           | combat            |
+| l'ennemi (m)   | [ayn-MEE]      | enemy           | enemy             |
+| l'armée (f)    | [ar-MAY]       | army            | army              |
+| le soldat      | [sol-DAH]      | soldier         | soldier           |
+| le pouvoir     | [poo-VWAR]     | power           | power             |
+| la bête        | [bet]          | beast           | beast             |
+| la proie       | [prwah]        | prey            | prey              |
+| la clé         | [klay]         | key             | (clef)            |
+| la chasse      | [shahss]       | hunt            | (chase)           |
+| le métier      | [may-TYAY]     | craft / trade   | (métier)          |
+| l'ennui (m)    | [ahN-NWEE]     | boredom         | (ennui)           |
+| la santé       | [sahN-TAY]     | health          | (sane / sanitary) |
+| la faim        | [faN]          | hunger          | (famine)          |
+| la nourriture  | [noo-ree-TEWR] | food            | (nourish)         |
+| le rêve        | [rev]          | dream           | (reverie)         |
+| le sommeil     | [soh-MAY]      | sleep           | (insomnia)        |
+| la jeunesse    | [zhuh-NESS]    | youth           | (juvenile)        |
+| le devoir      | [duh-VWAR]     | duty            | (due)             |
+| la graine      | [gren]         | seed            | (grain)           |
+| la guerre      | [gair]         | war             | (guerrilla)       |
+| la paix        | [peh]          | peace           | (pacify)          |
+| le pont        | [poN]          | bridge          | (pontoon)         |
+| le champ       | [shahN]        | field           | (campus)          |
+| la terre       | [tair]         | earth / land    | (terrain)         |
+| la mer         | [mair]         | sea             | (marine)          |
+| le ciel        | [syel]         | sky             | (celestial)       |
+| le soleil      | [soh-LAY]      | sun             | (solar)           |
+| la lune        | [lewn]         | moon            | (lunar)           |
+| le sang        | [sahN]         | blood           | (sanguine)        |
+| le cœur        | [kur]          | heart           | (cardiac)         |
+| la dent        | [dahN]         | tooth           | (dental)          |
+| le pied        | [pyay]         | foot            | (pedal)           |
+| la main        | [maN]          | hand            | (manual)          |
+| le poisson     | [pwah-SOHN]    | fish            | (Pisces)          |
+| le cheval      | [shuh-VAL]     | horse           | (cavalry)         |
+| le chien       | [shyaN]        | dog             | (canine)          |
+| la pierre      | [pyair]        | stone           | (petrify)         |
+| le sel         | [sel]          | salt            | (saline)          |
+| le lait        | [leh]          | milk            | (lactose)         |
+| le pain        | [paN]          | bread           | (pantry)          |
+| le jour        | [zhoor]        | day             | (journal)         |
+| la nuit        | [nwee]         | night           | (nocturnal)       |
+| l'année (f)    | [ah-NAY]       | year            | (annual)          |
 
